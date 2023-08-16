@@ -12,7 +12,7 @@ My aim?
 2) Automating tasks and processes.
 3) Creating insightful reports with appealing visualizations
 
-* 🌍  I'm based in Waterloo
+* 🌍  I'm based in Waterloo, Canada
 * ✉️  You can contact me at [a4kashan@uwaterloo.ca](mailto:a4kashan@uwaterloo.ca)
 * 🧠  I'm learning and improving my skills in Python, SQL and R.
 
