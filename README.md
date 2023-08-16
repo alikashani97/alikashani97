@@ -4,8 +4,10 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Business/Data Analyst
 ------------
 
-Coming from a background in industrial engineering, I decided to take my learning a step further. I'm currently pursuing a Master's in Management Sciences at the University of Waterloo. 
+Coming from a background in industrial engineering, I decided to take my learning a step further. I'm currently pursuing a Master's in Management Sciences at the University of Waterloo.
+
 My aim? 
+
 1) To become skilled at uncovering the interesting stories that numbers can tell!
 2) Automating tasks and processes.
 3) Creating insightful reports with appealing visualizations
