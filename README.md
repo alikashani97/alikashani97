@@ -1,7 +1,7 @@
-Hi and welcome to my profile! My name is Ali ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
+Hi and welcome to my profile! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 ===========================================================================================================================
 
-Business/Data Analyst
+Ali Kashani - Business/Data Analyst
 ------------
 
 Coming from a background in industrial engineering, I decided to take my learning a step further. I'm currently pursuing a Master's in Management Sciences at the University of Waterloo.
