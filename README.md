@@ -4,7 +4,7 @@ Hi and welcome to my profile! ![](https://user-images.githubusercontent.com/1835
 Ali Kashani - Business/Data Analyst
 ------------
 
-Coming from a background in industrial engineering, I decided to take my learning a step further. I'm currently pursuing a Master's in Management Sciences at the University of Waterloo.
+Having originated from an industrial engineering background during my bachelor's studies, I have recently completed my Master's in Management Sciences at the University of Waterloo. Throughout my master's program, I delved into data analysis courses and engaged in a valuable co-op experience as a supply chain data analyst at Loblaws. This hands-on opportunity allowed me to apply my academic knowledge to real-world scenarios. Consequently, I acquired proficiency in utilizing data analysis tools, including Python, R, SQL, and Tableau, and gained practical experience in leveraging these tools effectively.
 
 My aim? 
 
@@ -14,7 +14,7 @@ My aim?
 
 * 🌍  I'm based in Waterloo, Canada
 * ✉️  You can contact me at [a4kashan@uwaterloo.ca](mailto:a4kashan@uwaterloo.ca)
-* 🧠  I'm learning and improving my skills in Python, SQL and R.
+* 🧠  I'm learning and improving my Python, SQL, R, and Tableau skills.
 
 ### Socials
 
