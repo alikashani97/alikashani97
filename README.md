@@ -4,7 +4,7 @@ Hi and welcome to my profile! ![](https://user-images.githubusercontent.com/1835
 Ali Kashani - Business/Data Analyst
 ------------
 
-Having originated from an industrial engineering background during my bachelor's studies, I have recently completed my Master's in Management Sciences at the University of Waterloo. Throughout my master's program, I delved into data analysis courses and engaged in a valuable co-op experience as a supply chain data analyst at Loblaws. This hands-on opportunity allowed me to apply my academic knowledge to real-world scenarios. Consequently, I acquired proficiency in utilizing data analysis tools, including Python, R, SQL, and Tableau, and gained practical experience in leveraging these tools effectively.
+Having originated from an industrial engineering background during my bachelor's studies, I have recently completed my Master's in Management Sciences and Engineering at the University of Waterloo. Throughout my master's program, I delved into data analysis courses and engaged in a valuable co-op experience as a supply chain data analyst at Loblaws. This hands-on opportunity allowed me to apply my academic knowledge to real-world scenarios. Consequently, I acquired proficiency in utilizing data analysis tools, including Python, R, SQL, and Tableau, and gained practical experience in leveraging these tools effectively.
 
 My aim? 
 
