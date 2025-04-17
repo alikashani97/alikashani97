@@ -1,20 +1,22 @@
-Hi and welcome to my profile! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
+Hello and welcome to my profile! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 ===========================================================================================================================
 
-Ali Kashani - Business/Data Analyst
+Ali Kashani - Data Analyst / BI Specialist
 ------------
 
-Having originated from an industrial engineering background during my bachelor's studies, I have recently completed my Master's in Management Sciences and Engineering at the University of Waterloo. Throughout my master's program, I delved into data analysis courses and engaged in a valuable co-op experience as a supply chain data analyst at Loblaws. This hands-on opportunity allowed me to apply my academic knowledge to real-world scenarios. Consequently, I acquired proficiency in utilizing data analysis tools, including Python, R, SQL, and Tableau, and gained practical experience in leveraging these tools effectively.
+With a background in Industrial Engineering and a Master’s in Management Sciences and Engineering from the University of Waterloo, I bring a strong foundation in operations and data-driven problem-solving. I currently work as a Supply Chain Data Analyst at Motorola Solutions, where I leverage data analytics, business intelligence, and automation to optimize supply chain processes and enhance operational efficiency. In my role, I design insightful and visually engaging Tableau dashboards, automate report generation and distribution using tools like SQL, Python, Alteryx, and occasionally GitHub Actions, and conduct ad-hoc analyses to support business decisions and uncover key trends.
 
-My aim? 
+My areas of specialization and passion include:
+Uncovering the compelling stories hidden in data
+Automating workflows and reporting systems
+Creating impactful dashboards and visualizations for decision-makers
 
-1) To become skilled at uncovering the interesting stories that numbers can tell!
-2) Automating tasks and processes.
-3) Creating insightful reports with appealing visualizations
 
-* 🌍  I'm based in Waterloo, Canada
-* ✉️  You can contact me at [a4kashan@uwaterloo.ca](mailto:a4kashan@uwaterloo.ca)
-* 🧠  I'm learning and improving my Python, SQL, R, and Tableau skills.
+* 🌍  I'm based in Toronto, Canada
+* ✉️  You can contact me at [alikashani9775@gmail.com](mailto:alikashani9775@gmail.com)
+  
+* 🧠  Currently focused on improving my skills in Python, SQL, Tableau, and business-focused analytics.
+
 
 ### Socials
 
