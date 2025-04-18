@@ -7,12 +7,9 @@ Ali Kashani - Data Analyst / BI Specialist
 With a background in Industrial Engineering and a Master’s in Management Sciences and Engineering from the University of Waterloo, I bring a strong foundation in operations and data-driven problem-solving. I currently work as a Supply Chain Data Analyst at Motorola Solutions, where I leverage data analytics, business intelligence, and automation to optimize supply chain processes and enhance operational efficiency. In my role, I design insightful and visually engaging Tableau dashboards, automate report generation and distribution using tools like SQL, Python, Alteryx, and occasionally GitHub Actions, and conduct ad-hoc analyses to support business decisions and uncover key trends.
 
 My areas of specialization and passion include:
-
-Uncovering the compelling stories hidden in data
-
-Automating workflows and reporting systems
-
-Creating impactful dashboards and visualizations for decision-makers
+- Uncovering the compelling stories hidden in data
+- Automating workflows and reporting systems
+- Creating impactful dashboards and visualizations for decision-makers
 
 
 * 🌍  I'm based in Toronto, Canada
