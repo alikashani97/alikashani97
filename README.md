@@ -9,7 +9,9 @@ With a background in Industrial Engineering and a Master’s in Management Scien
 My areas of specialization and passion include:
 
 Uncovering the compelling stories hidden in data
+
 Automating workflows and reporting systems
+
 Creating impactful dashboards and visualizations for decision-makers
 
 
