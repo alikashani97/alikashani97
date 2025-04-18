@@ -12,9 +12,10 @@ My areas of specialization and passion include:
 - Creating impactful dashboards and visualizations for decision-makers
 
 
+
+
 * 🌍  I'm based in Toronto, Canada
 * ✉️  You can contact me at [alikashani9775@gmail.com](mailto:alikashani9775@gmail.com)
-  
 * 🧠  Currently focused on improving my skills in Python, SQL, Tableau, and business-focused analytics.
 
 
